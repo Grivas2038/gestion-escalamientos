@@ -9,11 +9,11 @@ API REST desarrollada en Node.js y MongoDB para administrar tickets de fallas y 
 ## Instalar Dependencias en la carpeta del proyecto
 npm install
 
-Contenido del archivo env.
+##Contenido del archivo env.
 MONGODB_URI=mongodb://localhost:27017/escalamientos_db
 PORT=3000
 
-iniciar el servidor
+##iniciar el servidor
 npm start
 
 ## Configuración
